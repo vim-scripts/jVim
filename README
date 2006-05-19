@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1550
+
+I tried to make vim a bit compatible with my old editors, so I maped CTRL+C, CTRL+V, CTRL+Y to copy, paste, del and so on, made Shift+Arrows work in insert mode as "v" does in normal mode, popup auto complete menu as you type, map CTRL+Right, CTRL+Left to next/prev buffer in normal mode, CTRL+N, CTRL+x to new/del buffer, and some custom settings.
+
+See here for more:
+http://pijulius.blogspot.com/2006/05/jvimvim.html
+
+Don't misunderstand me, I really like vim keys, but for now I needed some compatibility with my old editor, so I thought it may be useful for someone too.
+
+Any feedback/addition/note/idea is more than welcome.
